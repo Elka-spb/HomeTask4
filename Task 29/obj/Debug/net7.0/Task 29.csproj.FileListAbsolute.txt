@@ -1,0 +1,15 @@
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\bin\Debug\net7.0\Task 29.exe
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\bin\Debug\net7.0\Task 29.deps.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\bin\Debug\net7.0\Task 29.runtimeconfig.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\bin\Debug\net7.0\Task 29.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\bin\Debug\net7.0\Task 29.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.csproj.AssemblyReference.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.AssemblyInfoInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.AssemblyInfo.cs
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.csproj.CoreCompileInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\refint\Task 29.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\Task 29.genruntimeconfig.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 4\HomeTask4\Task 29\obj\Debug\net7.0\ref\Task 29.dll
